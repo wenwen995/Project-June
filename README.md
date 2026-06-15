@@ -1,2 +1,3 @@
 # Project-June
-este mes me encuentro entrenando como utilizar Git Hub 
+este mes de Junio/ j une me encuentro entrenando como utilizar Git Hub 
+como editar y utilizar Commit changes 
